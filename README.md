@@ -1,7 +1,7 @@
 # Dark Mode Animation
 Theme toggle animation with View Transitions API
 
-[Demo](https://earsplitting-group.surge.sh) <br />
+[Demo](https://ehsanmolaei991.github.io/dark-mode-animation) <br />
 
 ![](https://github.com/ehsanmolaei991/dark-mode-animation/blob/main/example.gif) 
 

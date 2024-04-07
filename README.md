@@ -1,7 +1,9 @@
 # Dark Mode Animation
 Theme toggle animation with View Transitions API
-[Demo](https://drafts.csswg.org/css-view-transitions-1)
-![example]()
+
+[Demo](https://drafts.csswg.org/css-view-transitions-1) <br />
+
+![](https://github.com/ehsanmolaei991/dark-mode-animation/blob/main/example.gif) 
 
 <ol>
   <li>
